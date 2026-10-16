@@ -39,17 +39,21 @@ I bring the ideas and the Minecraft know-how. Claude helps me with the rest:
 
 ## ✻ My servers
 
-### [Gensky.online](https://gensky.online)
+### [Gensky.online](https://github.com/Ashalinux/gensky)
 A German **generator Skyblock** Minecraft server – your own island, generators and a player economy. Live player list, top 10 leaderboards, shop and voting.
 `Minecraft` `Skyblock` `Skript`
 
-### [Server4Free](https://server4free.minecraft.pe)
+### [Server4Free](https://github.com/Ashalinux/server4free)
 **Free Minecraft server hosting** – no sign-up, no account. One click and your own Java server (powered by Rust-based Pumpkin) is online, with a live console and settings.
 `Hosting` `Rust` `Pumpkin`
 
 <br />
 
 ## ✻ Projects
+
+### [skyblock-serversystem](https://github.com/Ashalinux/skyblock-serversystem)
+An all-in-one Paper plugin for Skyblock servers – islands, generators, economy, web panel and 50+ features in one jar.
+`Java` `Paper` `Javalin`
 
 ### [SkBridge](https://github.com/Ashalinux/SkBridge)
 Connects Skript, LuckPerms and Votifier. Ghost-free tablist teams, rank sync and a built-in vote listener.
@@ -74,6 +78,21 @@ A 24/7 radio station for your Discord voice channel.
 ### [screen-session-picker](https://github.com/Ashalinux/screen-session-picker)
 A friendly menu for your GNU screen sessions.
 `Bash` `Linux`
+
+<details>
+<summary><b>More projects</b></summary>
+<br />
+
+- **[paper-world-manager](https://github.com/Ashalinux/paper-world-manager)** – clone and manage worlds with a GUI · `Java`
+- **[paper-server-core](https://github.com/Ashalinux/paper-server-core)** – permissions, chat, tablist and scoreboard · `Java`
+- **[block-shooter](https://github.com/Ashalinux/block-shooter)** – first-person 3D shooter in the browser · `Three.js`
+- **[multiplayer-3d-platformer](https://github.com/Ashalinux/multiplayer-3d-platformer)** – Three.js, Rapier and Socket.IO · `TypeScript`
+- **[webgl-experiments](https://github.com/Ashalinux/webgl-experiments)** – fractals, mini games and 3D scenes · `WebGL`
+- **[pi-camera-stream](https://github.com/Ashalinux/pi-camera-stream)** – Raspberry Pi camera dashboard · `Python`
+- **[linux-server-scripts](https://github.com/Ashalinux/linux-server-scripts)** – screen and service scripts · `Bash`
+- **[first-paper-plugins](https://github.com/Ashalinux/first-paper-plugins)** – where it all started · `Java`
+
+</details>
 
 <br />
 
