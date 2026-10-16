@@ -1,18 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f2a44&height=160&text=Ashalinux&fontSize=56&fontColor=e6edf3&fontAlignY=42&desc=Minecraft%20plugin%20developer%20%C2%B7%20Linux%20%26%20self-hosting&descSize=16&descAlignY=68&descColor=8b949e" alt="Ashalinux" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F0EEE6,100:F5E6DC&height=170&text=Ashalinux&fontSize=58&fontColor=D97757&fontAlignY=42&desc=building%20things%20with%20Java%2C%20Skript%20%26%20Claude%20%E2%9C%BB&descSize=17&descAlignY=70&descColor=3D3929" alt="Ashalinux" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ashalinux?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1f2a44?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
-  <img src="https://img.shields.io/github/followers/Ashalinux?style=flat-square&label=Followers&color=1f2a44" alt="Followers" />
-  <img src="https://img.shields.io/badge/Based%20in-Germany-1f2a44?style=flat-square" alt="Germany" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=D97757&center=true&vCenter=true&width=560&lines=%E2%9C%BB+thinking...;Writing+Minecraft+plugins+with+Claude;Turning+ideas+into+Skript+addons;Self-hosting+on+a+Proxmox+homelab;%E2%9C%BB+done.+what+should+we+build+next%3F" alt="typing" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20with-Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Built with Claude Code" />
+  <img src="https://img.shields.io/github/followers/Ashalinux?style=flat-square&label=Followers&color=3D3929" alt="Followers" />
+  <img src="https://img.shields.io/badge/Based%20in-Germany-3D3929?style=flat-square" alt="Germany" />
 </p>
 
 <br />
 
-### About
+### ✻ About
 
-I'm a developer from Germany focused on tools for **Minecraft servers** and the communities around them.
+I'm a developer from Germany building tools for **Minecraft servers** and the communities around them.
 
 I started out writing **Skript** for my own servers. Over time that grew into dozens of complete server systems – economies, shops, jobs, ranks and moderation tools. Where Skript reached its limits, I began writing my own **Java plugins and Skript addons** to close the gaps.
 
@@ -20,28 +24,50 @@ Outside of Minecraft I work a lot with **Linux** and self-hosting: I run a **Pro
 
 <br />
 
-### Currently
+### ✻ Building with Claude
+
+Most of my development today happens together with **[Claude](https://claude.ai)**, Anthropic's AI assistant – right in my terminal with **[Claude Code](https://claude.com/claude-code)**. I bring the ideas and the Minecraft know-how, Claude helps me with the rest:
+
+| | How I use it |
+|:--|:--|
+| **Planning** | Talking through plugin architecture and Skript API design before writing code |
+| **Coding** | Writing and refactoring Java plugins, scripts and bots together |
+| **Debugging** | Hunting down tricky bugs like ghost scoreboard entries or RSA vote decoding |
+| **Docs** | Turning messy notes into clean READMEs – like the ones on this profile |
+| **Ops** | Setting up Linux servers, Git workflows and my dev environment |
+
+> AI doesn't replace understanding your code – it makes learning and building a lot faster. Every line still gets read, tested and owned by me.
+
+<br />
+
+### ✻ Currently
 
 - Developing **[SkBridge](https://github.com/Ashalinux/SkBridge)** – a Paper plugin connecting Skript, LuckPerms and Votifier
 - Building a multiplayer 3D browser game with combat and levels
-- Documenting my older scripts so others can learn from them
+- Exploring AI-assisted workflows for plugin development
 
 <br />
 
-### Tech stack
+### ✻ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,bash&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,bash&theme=light" alt="Languages" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,threejs,maven,linux,debian,git,github,idea,vscode&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,threejs,maven,linux,debian,git,github,idea,vscode&theme=light" alt="Tools" />
 </p>
-
-Plus the Minecraft ecosystem: **Paper**, **Spigot**, **Skript**, **SkBee**, **LuckPerms** – and **Proxmox VE** for infrastructure.
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Claude%20Code-3D3929?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Paper-F0EEE6?style=for-the-badge&logoColor=3D3929" alt="Paper" />
+  <img src="https://img.shields.io/badge/Skript-F0EEE6?style=for-the-badge" alt="Skript" />
+  <img src="https://img.shields.io/badge/LuckPerms-F0EEE6?style=for-the-badge" alt="LuckPerms" />
+  <img src="https://img.shields.io/badge/Proxmox-F0EEE6?style=for-the-badge&logo=proxmox&logoColor=E57000" alt="Proxmox" />
+</p>
 
 <br />
 
-### Selected projects
+### ✻ Selected projects
 
 | Project | Description | Stack |
 |:--|:--|:--|
@@ -54,17 +80,23 @@ Plus the Minecraft ecosystem: **Paper**, **Spigot**, **Skript**, **SkBee**, **Lu
 
 <br />
 
-### Activity
+### ✻ Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashalinux&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashalinux&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashalinux&show_icons=true&hide_border=true&count_private=true&bg_color=F0EEE6&title_color=D97757&text_color=3D3929&icon_color=D97757" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashalinux&layout=compact&hide_border=true&bg_color=F0EEE6&title_color=D97757&text_color=3D3929" alt="Top languages" />
 </p>
 
 <br />
 
-### Get in touch
+### ✻ Get in touch
 
-Feedback, bug reports and ideas are always welcome – open an issue in any of my repositories. If something I built helped you, a star on the repo is much appreciated.
+Feedback, bug reports and ideas are always welcome – open an issue in any of my repositories. If something I built helped you, a star is much appreciated.
 
 Need a custom plugin or Skript for your server? Feel free to reach out.
+
+<br />
+
+<p align="center">
+  <sub>✻ crafted with care · and a little help from Claude</sub>
+</p>
