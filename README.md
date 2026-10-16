@@ -37,6 +37,18 @@ I bring the ideas and the Minecraft know-how. Claude helps me with the rest:
 
 <br />
 
+## ✻ My servers
+
+### [Gensky.online](https://gensky.online)
+A German **generator Skyblock** Minecraft server – your own island, generators and a player economy. Live player list, top 10 leaderboards, shop and voting.
+`Minecraft` `Skyblock` `Skript`
+
+### [Server4Free](https://server4free.minecraft.pe)
+**Free Minecraft server hosting** – no sign-up, no account. One click and your own Java server (powered by Rust-based Pumpkin) is online, with a live console and settings.
+`Hosting` `Rust` `Pumpkin`
+
+<br />
+
 ## ✻ Projects
 
 ### [SkBridge](https://github.com/Ashalinux/SkBridge)
